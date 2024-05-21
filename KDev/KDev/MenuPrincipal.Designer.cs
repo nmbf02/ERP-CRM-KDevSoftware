@@ -1,0 +1,1524 @@
+﻿namespace KDev
+{
+    partial class MenuPrincipal
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MenuPrincipal));
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges3 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges5 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges9 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges6 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges2 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges4 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges8 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges7 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges1 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.Minimizar_Btn = new Bunifu.UI.WinForms.BunifuImageButton();
+            this.Maximizar_Btn = new Bunifu.UI.WinForms.BunifuImageButton();
+            this.Cerrar_Btn = new Bunifu.UI.WinForms.BunifuImageButton();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.Proyectos_Btn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
+            this.Marketing_Btn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
+            this.Financiera_Btn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
+            this.Empleado_Btn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
+            this.Suplidor_Btn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
+            this.Cliente_Btn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
+            this.Dashboard_Btn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
+            this.Pedido_Btn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
+            this.Inventario_Btn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.Separador1 = new Bunifu.UI.WinForms.BunifuSeparator();
+            this.Contactos_Label = new Bunifu.UI.WinForms.BunifuLabel();
+            this.WhastApp_Btn = new Bunifu.UI.WinForms.BunifuImageButton();
+            this.Correo_Btn = new Bunifu.UI.WinForms.BunifuImageButton();
+            this.CerrarSesion_Btn = new Bunifu.Framework.UI.BunifuThinButton2();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.panel5 = new System.Windows.Forms.Panel();
+            this.UsuarioBienvenidad_txt = new System.Windows.Forms.TextBox();
+            this.Bienvenida_Txt = new System.Windows.Forms.TextBox();
+            this.Administrador_Panel = new System.Windows.Forms.Panel();
+            this.Fecha_Txt = new System.Windows.Forms.TextBox();
+            this.bunifuImageButton1 = new Bunifu.UI.WinForms.BunifuImageButton();
+            this.bunifuSeparator1 = new Bunifu.UI.WinForms.BunifuSeparator();
+            this.Gasto_Btn = new Bunifu.Framework.UI.BunifuThinButton2();
+            this.Venta_Btn = new Bunifu.Framework.UI.BunifuThinButton2();
+            this.bunifuImageButton2 = new Bunifu.UI.WinForms.BunifuImageButton();
+            this.Dashboard_FLPanel = new System.Windows.Forms.FlowLayoutPanel();
+            this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.bunifuSeparator2 = new Bunifu.UI.WinForms.BunifuSeparator();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.panel1.SuspendLayout();
+            this.panel2.SuspendLayout();
+            this.panel4.SuspendLayout();
+            this.panel3.SuspendLayout();
+            this.panel5.SuspendLayout();
+            this.Administrador_Panel.SuspendLayout();
+            this.panel6.SuspendLayout();
+            this.panel7.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // panel1
+            // 
+            this.panel1.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.panel1.BackColor = System.Drawing.Color.Red;
+            this.panel1.Controls.Add(this.Minimizar_Btn);
+            this.panel1.Controls.Add(this.Maximizar_Btn);
+            this.panel1.Controls.Add(this.Cerrar_Btn);
+            this.panel1.Location = new System.Drawing.Point(1071, 7);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(61, 114);
+            this.panel1.TabIndex = 1;
+            // 
+            // Minimizar_Btn
+            // 
+            this.Minimizar_Btn.ActiveImage = null;
+            this.Minimizar_Btn.AllowAnimations = true;
+            this.Minimizar_Btn.AllowBuffering = false;
+            this.Minimizar_Btn.AllowToggling = false;
+            this.Minimizar_Btn.AllowZooming = true;
+            this.Minimizar_Btn.AllowZoomingOnFocus = false;
+            this.Minimizar_Btn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.Minimizar_Btn.BackColor = System.Drawing.Color.Red;
+            this.Minimizar_Btn.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.Minimizar_Btn.ErrorImage = ((System.Drawing.Image)(resources.GetObject("Minimizar_Btn.ErrorImage")));
+            this.Minimizar_Btn.FadeWhenInactive = false;
+            this.Minimizar_Btn.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
+            this.Minimizar_Btn.Image = global::KDev.Properties.Resources.Minimizar;
+            this.Minimizar_Btn.ImageActive = null;
+            this.Minimizar_Btn.ImageLocation = null;
+            this.Minimizar_Btn.ImageMargin = 20;
+            this.Minimizar_Btn.ImageSize = new System.Drawing.Size(17, 17);
+            this.Minimizar_Btn.ImageZoomSize = new System.Drawing.Size(37, 37);
+            this.Minimizar_Btn.InitialImage = ((System.Drawing.Image)(resources.GetObject("Minimizar_Btn.InitialImage")));
+            this.Minimizar_Btn.Location = new System.Drawing.Point(8, 74);
+            this.Minimizar_Btn.Name = "Minimizar_Btn";
+            this.Minimizar_Btn.Rotation = 0;
+            this.Minimizar_Btn.ShowActiveImage = true;
+            this.Minimizar_Btn.ShowCursorChanges = true;
+            this.Minimizar_Btn.ShowImageBorders = true;
+            this.Minimizar_Btn.ShowSizeMarkers = false;
+            this.Minimizar_Btn.Size = new System.Drawing.Size(37, 37);
+            this.Minimizar_Btn.TabIndex = 15;
+            this.Minimizar_Btn.ToolTipText = "";
+            this.Minimizar_Btn.WaitOnLoad = false;
+            this.Minimizar_Btn.Zoom = 20;
+            this.Minimizar_Btn.ZoomSpeed = 10;
+            this.Minimizar_Btn.Click += new System.EventHandler(this.Minimizar_Btn_Click);
+            // 
+            // Maximizar_Btn
+            // 
+            this.Maximizar_Btn.ActiveImage = null;
+            this.Maximizar_Btn.AllowAnimations = true;
+            this.Maximizar_Btn.AllowBuffering = false;
+            this.Maximizar_Btn.AllowToggling = false;
+            this.Maximizar_Btn.AllowZooming = true;
+            this.Maximizar_Btn.AllowZoomingOnFocus = false;
+            this.Maximizar_Btn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.Maximizar_Btn.BackColor = System.Drawing.Color.Red;
+            this.Maximizar_Btn.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.Maximizar_Btn.ErrorImage = ((System.Drawing.Image)(resources.GetObject("Maximizar_Btn.ErrorImage")));
+            this.Maximizar_Btn.FadeWhenInactive = false;
+            this.Maximizar_Btn.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
+            this.Maximizar_Btn.Image = global::KDev.Properties.Resources.Maximizar;
+            this.Maximizar_Btn.ImageActive = null;
+            this.Maximizar_Btn.ImageLocation = null;
+            this.Maximizar_Btn.ImageMargin = 20;
+            this.Maximizar_Btn.ImageSize = new System.Drawing.Size(17, 17);
+            this.Maximizar_Btn.ImageZoomSize = new System.Drawing.Size(37, 37);
+            this.Maximizar_Btn.InitialImage = ((System.Drawing.Image)(resources.GetObject("Maximizar_Btn.InitialImage")));
+            this.Maximizar_Btn.Location = new System.Drawing.Point(8, 37);
+            this.Maximizar_Btn.Name = "Maximizar_Btn";
+            this.Maximizar_Btn.Rotation = 0;
+            this.Maximizar_Btn.ShowActiveImage = true;
+            this.Maximizar_Btn.ShowCursorChanges = true;
+            this.Maximizar_Btn.ShowImageBorders = true;
+            this.Maximizar_Btn.ShowSizeMarkers = false;
+            this.Maximizar_Btn.Size = new System.Drawing.Size(37, 37);
+            this.Maximizar_Btn.TabIndex = 13;
+            this.Maximizar_Btn.ToolTipText = "";
+            this.Maximizar_Btn.WaitOnLoad = false;
+            this.Maximizar_Btn.Zoom = 20;
+            this.Maximizar_Btn.ZoomSpeed = 10;
+            this.Maximizar_Btn.Click += new System.EventHandler(this.Maximizar_Btn_Click);
+            // 
+            // Cerrar_Btn
+            // 
+            this.Cerrar_Btn.ActiveImage = null;
+            this.Cerrar_Btn.AllowAnimations = true;
+            this.Cerrar_Btn.AllowBuffering = false;
+            this.Cerrar_Btn.AllowToggling = false;
+            this.Cerrar_Btn.AllowZooming = true;
+            this.Cerrar_Btn.AllowZoomingOnFocus = false;
+            this.Cerrar_Btn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.Cerrar_Btn.BackColor = System.Drawing.Color.Red;
+            this.Cerrar_Btn.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.Cerrar_Btn.ErrorImage = ((System.Drawing.Image)(resources.GetObject("Cerrar_Btn.ErrorImage")));
+            this.Cerrar_Btn.FadeWhenInactive = false;
+            this.Cerrar_Btn.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
+            this.Cerrar_Btn.Image = global::KDev.Properties.Resources.Cerrar;
+            this.Cerrar_Btn.ImageActive = null;
+            this.Cerrar_Btn.ImageLocation = null;
+            this.Cerrar_Btn.ImageMargin = 20;
+            this.Cerrar_Btn.ImageSize = new System.Drawing.Size(17, 17);
+            this.Cerrar_Btn.ImageZoomSize = new System.Drawing.Size(37, 37);
+            this.Cerrar_Btn.InitialImage = ((System.Drawing.Image)(resources.GetObject("Cerrar_Btn.InitialImage")));
+            this.Cerrar_Btn.Location = new System.Drawing.Point(8, 3);
+            this.Cerrar_Btn.Name = "Cerrar_Btn";
+            this.Cerrar_Btn.Rotation = 0;
+            this.Cerrar_Btn.ShowActiveImage = true;
+            this.Cerrar_Btn.ShowCursorChanges = true;
+            this.Cerrar_Btn.ShowImageBorders = true;
+            this.Cerrar_Btn.ShowSizeMarkers = false;
+            this.Cerrar_Btn.Size = new System.Drawing.Size(37, 37);
+            this.Cerrar_Btn.TabIndex = 14;
+            this.Cerrar_Btn.ToolTipText = "";
+            this.Cerrar_Btn.WaitOnLoad = false;
+            this.Cerrar_Btn.Zoom = 20;
+            this.Cerrar_Btn.ZoomSpeed = 10;
+            this.Cerrar_Btn.Click += new System.EventHandler(this.Cerrar_Btn_Click);
+            // 
+            // panel2
+            // 
+            this.panel2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.panel2.BackColor = System.Drawing.Color.White;
+            this.panel2.Controls.Add(this.panel6);
+            this.panel2.Controls.Add(this.panel4);
+            this.panel2.Controls.Add(this.CerrarSesion_Btn);
+            this.panel2.Location = new System.Drawing.Point(12, -2);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(115, 882);
+            this.panel2.TabIndex = 2;
+            // 
+            // Proyectos_Btn
+            // 
+            this.Proyectos_Btn.AllowAnimations = true;
+            this.Proyectos_Btn.AllowMouseEffects = true;
+            this.Proyectos_Btn.AllowToggling = false;
+            this.Proyectos_Btn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.Proyectos_Btn.AnimationSpeed = 200;
+            this.Proyectos_Btn.AutoGenerateColors = false;
+            this.Proyectos_Btn.AutoRoundBorders = false;
+            this.Proyectos_Btn.AutoSizeLeftIcon = true;
+            this.Proyectos_Btn.AutoSizeRightIcon = true;
+            this.Proyectos_Btn.BackColor = System.Drawing.Color.Transparent;
+            this.Proyectos_Btn.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(122)))), ((int)(((byte)(183)))));
+            this.Proyectos_Btn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Proyectos_Btn.BackgroundImage")));
+            this.Proyectos_Btn.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Proyectos_Btn.ButtonText = "Proyectos";
+            this.Proyectos_Btn.ButtonTextMarginLeft = 0;
+            this.Proyectos_Btn.ColorContrastOnClick = 45;
+            this.Proyectos_Btn.ColorContrastOnHover = 45;
+            this.Proyectos_Btn.Cursor = System.Windows.Forms.Cursors.Default;
+            borderEdges3.BottomLeft = true;
+            borderEdges3.BottomRight = true;
+            borderEdges3.TopLeft = true;
+            borderEdges3.TopRight = true;
+            this.Proyectos_Btn.CustomizableEdges = borderEdges3;
+            this.Proyectos_Btn.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.Proyectos_Btn.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.Proyectos_Btn.DisabledFillColor = System.Drawing.Color.Empty;
+            this.Proyectos_Btn.DisabledForecolor = System.Drawing.Color.Empty;
+            this.Proyectos_Btn.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
+            this.Proyectos_Btn.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.Proyectos_Btn.ForeColor = System.Drawing.Color.Black;
+            this.Proyectos_Btn.IconLeft = global::KDev.Properties.Resources.Proyectos;
+            this.Proyectos_Btn.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.Proyectos_Btn.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.Proyectos_Btn.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
+            this.Proyectos_Btn.IconMarginLeft = 11;
+            this.Proyectos_Btn.IconPadding = 10;
+            this.Proyectos_Btn.IconRight = null;
+            this.Proyectos_Btn.IconRightAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.Proyectos_Btn.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.Proyectos_Btn.IconRightPadding = new System.Windows.Forms.Padding(3, 3, 7, 3);
+            this.Proyectos_Btn.IconSize = 25;
+            this.Proyectos_Btn.IdleBorderColor = System.Drawing.Color.Empty;
+            this.Proyectos_Btn.IdleBorderRadius = 0;
+            this.Proyectos_Btn.IdleBorderThickness = 0;
+            this.Proyectos_Btn.IdleFillColor = System.Drawing.Color.Empty;
+            this.Proyectos_Btn.IdleIconLeftImage = global::KDev.Properties.Resources.Proyectos;
+            this.Proyectos_Btn.IdleIconRightImage = null;
+            this.Proyectos_Btn.IndicateFocus = false;
+            this.Proyectos_Btn.Location = new System.Drawing.Point(16, 376);
+            this.Proyectos_Btn.Name = "Proyectos_Btn";
+            this.Proyectos_Btn.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.Proyectos_Btn.OnDisabledState.BorderRadius = 1;
+            this.Proyectos_Btn.OnDisabledState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Proyectos_Btn.OnDisabledState.BorderThickness = 1;
+            this.Proyectos_Btn.OnDisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.Proyectos_Btn.OnDisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
+            this.Proyectos_Btn.OnDisabledState.IconLeftImage = null;
+            this.Proyectos_Btn.OnDisabledState.IconRightImage = null;
+            this.Proyectos_Btn.onHoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Proyectos_Btn.onHoverState.BorderRadius = 1;
+            this.Proyectos_Btn.onHoverState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Proyectos_Btn.onHoverState.BorderThickness = 1;
+            this.Proyectos_Btn.onHoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Proyectos_Btn.onHoverState.ForeColor = System.Drawing.Color.Black;
+            this.Proyectos_Btn.onHoverState.IconLeftImage = null;
+            this.Proyectos_Btn.onHoverState.IconRightImage = null;
+            this.Proyectos_Btn.OnIdleState.BorderColor = System.Drawing.Color.White;
+            this.Proyectos_Btn.OnIdleState.BorderRadius = 1;
+            this.Proyectos_Btn.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Proyectos_Btn.OnIdleState.BorderThickness = 1;
+            this.Proyectos_Btn.OnIdleState.FillColor = System.Drawing.Color.White;
+            this.Proyectos_Btn.OnIdleState.ForeColor = System.Drawing.Color.Black;
+            this.Proyectos_Btn.OnIdleState.IconLeftImage = global::KDev.Properties.Resources.Proyectos;
+            this.Proyectos_Btn.OnIdleState.IconRightImage = null;
+            this.Proyectos_Btn.OnPressedState.BorderColor = System.Drawing.Color.Red;
+            this.Proyectos_Btn.OnPressedState.BorderRadius = 1;
+            this.Proyectos_Btn.OnPressedState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Proyectos_Btn.OnPressedState.BorderThickness = 1;
+            this.Proyectos_Btn.OnPressedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Proyectos_Btn.OnPressedState.ForeColor = System.Drawing.Color.Black;
+            this.Proyectos_Btn.OnPressedState.IconLeftImage = null;
+            this.Proyectos_Btn.OnPressedState.IconRightImage = null;
+            this.Proyectos_Btn.Size = new System.Drawing.Size(94, 41);
+            this.Proyectos_Btn.TabIndex = 31;
+            this.Proyectos_Btn.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.Proyectos_Btn.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
+            this.Proyectos_Btn.TextMarginLeft = 0;
+            this.Proyectos_Btn.TextPadding = new System.Windows.Forms.Padding(0);
+            this.Proyectos_Btn.UseDefaultRadiusAndThickness = true;
+            // 
+            // Marketing_Btn
+            // 
+            this.Marketing_Btn.AllowAnimations = true;
+            this.Marketing_Btn.AllowMouseEffects = true;
+            this.Marketing_Btn.AllowToggling = false;
+            this.Marketing_Btn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.Marketing_Btn.AnimationSpeed = 200;
+            this.Marketing_Btn.AutoGenerateColors = false;
+            this.Marketing_Btn.AutoRoundBorders = false;
+            this.Marketing_Btn.AutoSizeLeftIcon = true;
+            this.Marketing_Btn.AutoSizeRightIcon = true;
+            this.Marketing_Btn.BackColor = System.Drawing.Color.Transparent;
+            this.Marketing_Btn.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(122)))), ((int)(((byte)(183)))));
+            this.Marketing_Btn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Marketing_Btn.BackgroundImage")));
+            this.Marketing_Btn.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Marketing_Btn.ButtonText = "Marketing";
+            this.Marketing_Btn.ButtonTextMarginLeft = 0;
+            this.Marketing_Btn.ColorContrastOnClick = 45;
+            this.Marketing_Btn.ColorContrastOnHover = 45;
+            this.Marketing_Btn.Cursor = System.Windows.Forms.Cursors.Default;
+            borderEdges5.BottomLeft = true;
+            borderEdges5.BottomRight = true;
+            borderEdges5.TopLeft = true;
+            borderEdges5.TopRight = true;
+            this.Marketing_Btn.CustomizableEdges = borderEdges5;
+            this.Marketing_Btn.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.Marketing_Btn.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.Marketing_Btn.DisabledFillColor = System.Drawing.Color.Empty;
+            this.Marketing_Btn.DisabledForecolor = System.Drawing.Color.Empty;
+            this.Marketing_Btn.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
+            this.Marketing_Btn.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.Marketing_Btn.ForeColor = System.Drawing.Color.Black;
+            this.Marketing_Btn.IconLeft = global::KDev.Properties.Resources.Marketing;
+            this.Marketing_Btn.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.Marketing_Btn.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.Marketing_Btn.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
+            this.Marketing_Btn.IconMarginLeft = 11;
+            this.Marketing_Btn.IconPadding = 10;
+            this.Marketing_Btn.IconRight = null;
+            this.Marketing_Btn.IconRightAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.Marketing_Btn.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.Marketing_Btn.IconRightPadding = new System.Windows.Forms.Padding(3, 3, 7, 3);
+            this.Marketing_Btn.IconSize = 25;
+            this.Marketing_Btn.IdleBorderColor = System.Drawing.Color.Empty;
+            this.Marketing_Btn.IdleBorderRadius = 0;
+            this.Marketing_Btn.IdleBorderThickness = 0;
+            this.Marketing_Btn.IdleFillColor = System.Drawing.Color.Empty;
+            this.Marketing_Btn.IdleIconLeftImage = global::KDev.Properties.Resources.Marketing;
+            this.Marketing_Btn.IdleIconRightImage = null;
+            this.Marketing_Btn.IndicateFocus = false;
+            this.Marketing_Btn.Location = new System.Drawing.Point(16, 329);
+            this.Marketing_Btn.Name = "Marketing_Btn";
+            this.Marketing_Btn.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.Marketing_Btn.OnDisabledState.BorderRadius = 1;
+            this.Marketing_Btn.OnDisabledState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Marketing_Btn.OnDisabledState.BorderThickness = 1;
+            this.Marketing_Btn.OnDisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.Marketing_Btn.OnDisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
+            this.Marketing_Btn.OnDisabledState.IconLeftImage = null;
+            this.Marketing_Btn.OnDisabledState.IconRightImage = null;
+            this.Marketing_Btn.onHoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Marketing_Btn.onHoverState.BorderRadius = 1;
+            this.Marketing_Btn.onHoverState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Marketing_Btn.onHoverState.BorderThickness = 1;
+            this.Marketing_Btn.onHoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Marketing_Btn.onHoverState.ForeColor = System.Drawing.Color.Black;
+            this.Marketing_Btn.onHoverState.IconLeftImage = null;
+            this.Marketing_Btn.onHoverState.IconRightImage = null;
+            this.Marketing_Btn.OnIdleState.BorderColor = System.Drawing.Color.White;
+            this.Marketing_Btn.OnIdleState.BorderRadius = 1;
+            this.Marketing_Btn.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Marketing_Btn.OnIdleState.BorderThickness = 1;
+            this.Marketing_Btn.OnIdleState.FillColor = System.Drawing.Color.White;
+            this.Marketing_Btn.OnIdleState.ForeColor = System.Drawing.Color.Black;
+            this.Marketing_Btn.OnIdleState.IconLeftImage = global::KDev.Properties.Resources.Marketing;
+            this.Marketing_Btn.OnIdleState.IconRightImage = null;
+            this.Marketing_Btn.OnPressedState.BorderColor = System.Drawing.Color.Red;
+            this.Marketing_Btn.OnPressedState.BorderRadius = 1;
+            this.Marketing_Btn.OnPressedState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Marketing_Btn.OnPressedState.BorderThickness = 1;
+            this.Marketing_Btn.OnPressedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Marketing_Btn.OnPressedState.ForeColor = System.Drawing.Color.Black;
+            this.Marketing_Btn.OnPressedState.IconLeftImage = null;
+            this.Marketing_Btn.OnPressedState.IconRightImage = null;
+            this.Marketing_Btn.Size = new System.Drawing.Size(94, 41);
+            this.Marketing_Btn.TabIndex = 30;
+            this.Marketing_Btn.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.Marketing_Btn.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
+            this.Marketing_Btn.TextMarginLeft = 0;
+            this.Marketing_Btn.TextPadding = new System.Windows.Forms.Padding(0);
+            this.Marketing_Btn.UseDefaultRadiusAndThickness = true;
+            // 
+            // Financiera_Btn
+            // 
+            this.Financiera_Btn.AllowAnimations = true;
+            this.Financiera_Btn.AllowMouseEffects = true;
+            this.Financiera_Btn.AllowToggling = false;
+            this.Financiera_Btn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.Financiera_Btn.AnimationSpeed = 200;
+            this.Financiera_Btn.AutoGenerateColors = false;
+            this.Financiera_Btn.AutoRoundBorders = false;
+            this.Financiera_Btn.AutoSizeLeftIcon = true;
+            this.Financiera_Btn.AutoSizeRightIcon = true;
+            this.Financiera_Btn.BackColor = System.Drawing.Color.Transparent;
+            this.Financiera_Btn.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(122)))), ((int)(((byte)(183)))));
+            this.Financiera_Btn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Financiera_Btn.BackgroundImage")));
+            this.Financiera_Btn.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Financiera_Btn.ButtonText = "Financiera";
+            this.Financiera_Btn.ButtonTextMarginLeft = 0;
+            this.Financiera_Btn.ColorContrastOnClick = 45;
+            this.Financiera_Btn.ColorContrastOnHover = 45;
+            this.Financiera_Btn.Cursor = System.Windows.Forms.Cursors.Default;
+            borderEdges9.BottomLeft = true;
+            borderEdges9.BottomRight = true;
+            borderEdges9.TopLeft = true;
+            borderEdges9.TopRight = true;
+            this.Financiera_Btn.CustomizableEdges = borderEdges9;
+            this.Financiera_Btn.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.Financiera_Btn.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.Financiera_Btn.DisabledFillColor = System.Drawing.Color.Empty;
+            this.Financiera_Btn.DisabledForecolor = System.Drawing.Color.Empty;
+            this.Financiera_Btn.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
+            this.Financiera_Btn.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.Financiera_Btn.ForeColor = System.Drawing.Color.Black;
+            this.Financiera_Btn.IconLeft = global::KDev.Properties.Resources.Financiera;
+            this.Financiera_Btn.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.Financiera_Btn.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.Financiera_Btn.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
+            this.Financiera_Btn.IconMarginLeft = 11;
+            this.Financiera_Btn.IconPadding = 10;
+            this.Financiera_Btn.IconRight = null;
+            this.Financiera_Btn.IconRightAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.Financiera_Btn.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.Financiera_Btn.IconRightPadding = new System.Windows.Forms.Padding(3, 3, 7, 3);
+            this.Financiera_Btn.IconSize = 25;
+            this.Financiera_Btn.IdleBorderColor = System.Drawing.Color.Empty;
+            this.Financiera_Btn.IdleBorderRadius = 0;
+            this.Financiera_Btn.IdleBorderThickness = 0;
+            this.Financiera_Btn.IdleFillColor = System.Drawing.Color.Empty;
+            this.Financiera_Btn.IdleIconLeftImage = global::KDev.Properties.Resources.Financiera;
+            this.Financiera_Btn.IdleIconRightImage = null;
+            this.Financiera_Btn.IndicateFocus = false;
+            this.Financiera_Btn.Location = new System.Drawing.Point(16, 235);
+            this.Financiera_Btn.Name = "Financiera_Btn";
+            this.Financiera_Btn.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.Financiera_Btn.OnDisabledState.BorderRadius = 1;
+            this.Financiera_Btn.OnDisabledState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Financiera_Btn.OnDisabledState.BorderThickness = 1;
+            this.Financiera_Btn.OnDisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.Financiera_Btn.OnDisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
+            this.Financiera_Btn.OnDisabledState.IconLeftImage = null;
+            this.Financiera_Btn.OnDisabledState.IconRightImage = null;
+            this.Financiera_Btn.onHoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Financiera_Btn.onHoverState.BorderRadius = 1;
+            this.Financiera_Btn.onHoverState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Financiera_Btn.onHoverState.BorderThickness = 1;
+            this.Financiera_Btn.onHoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Financiera_Btn.onHoverState.ForeColor = System.Drawing.Color.Black;
+            this.Financiera_Btn.onHoverState.IconLeftImage = null;
+            this.Financiera_Btn.onHoverState.IconRightImage = null;
+            this.Financiera_Btn.OnIdleState.BorderColor = System.Drawing.Color.White;
+            this.Financiera_Btn.OnIdleState.BorderRadius = 1;
+            this.Financiera_Btn.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Financiera_Btn.OnIdleState.BorderThickness = 1;
+            this.Financiera_Btn.OnIdleState.FillColor = System.Drawing.Color.White;
+            this.Financiera_Btn.OnIdleState.ForeColor = System.Drawing.Color.Black;
+            this.Financiera_Btn.OnIdleState.IconLeftImage = global::KDev.Properties.Resources.Financiera;
+            this.Financiera_Btn.OnIdleState.IconRightImage = null;
+            this.Financiera_Btn.OnPressedState.BorderColor = System.Drawing.Color.Red;
+            this.Financiera_Btn.OnPressedState.BorderRadius = 1;
+            this.Financiera_Btn.OnPressedState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Financiera_Btn.OnPressedState.BorderThickness = 1;
+            this.Financiera_Btn.OnPressedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Financiera_Btn.OnPressedState.ForeColor = System.Drawing.Color.Black;
+            this.Financiera_Btn.OnPressedState.IconLeftImage = null;
+            this.Financiera_Btn.OnPressedState.IconRightImage = null;
+            this.Financiera_Btn.Size = new System.Drawing.Size(94, 41);
+            this.Financiera_Btn.TabIndex = 29;
+            this.Financiera_Btn.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.Financiera_Btn.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
+            this.Financiera_Btn.TextMarginLeft = 0;
+            this.Financiera_Btn.TextPadding = new System.Windows.Forms.Padding(0);
+            this.Financiera_Btn.UseDefaultRadiusAndThickness = true;
+            // 
+            // Empleado_Btn
+            // 
+            this.Empleado_Btn.AllowAnimations = true;
+            this.Empleado_Btn.AllowMouseEffects = true;
+            this.Empleado_Btn.AllowToggling = false;
+            this.Empleado_Btn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.Empleado_Btn.AnimationSpeed = 200;
+            this.Empleado_Btn.AutoGenerateColors = false;
+            this.Empleado_Btn.AutoRoundBorders = false;
+            this.Empleado_Btn.AutoSizeLeftIcon = true;
+            this.Empleado_Btn.AutoSizeRightIcon = true;
+            this.Empleado_Btn.BackColor = System.Drawing.Color.Transparent;
+            this.Empleado_Btn.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(122)))), ((int)(((byte)(183)))));
+            this.Empleado_Btn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Empleado_Btn.BackgroundImage")));
+            this.Empleado_Btn.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Empleado_Btn.ButtonText = "Empleados";
+            this.Empleado_Btn.ButtonTextMarginLeft = 0;
+            this.Empleado_Btn.ColorContrastOnClick = 45;
+            this.Empleado_Btn.ColorContrastOnHover = 45;
+            this.Empleado_Btn.Cursor = System.Windows.Forms.Cursors.Default;
+            borderEdges6.BottomLeft = true;
+            borderEdges6.BottomRight = true;
+            borderEdges6.TopLeft = true;
+            borderEdges6.TopRight = true;
+            this.Empleado_Btn.CustomizableEdges = borderEdges6;
+            this.Empleado_Btn.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.Empleado_Btn.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.Empleado_Btn.DisabledFillColor = System.Drawing.Color.Empty;
+            this.Empleado_Btn.DisabledForecolor = System.Drawing.Color.Empty;
+            this.Empleado_Btn.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
+            this.Empleado_Btn.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.Empleado_Btn.ForeColor = System.Drawing.Color.Black;
+            this.Empleado_Btn.IconLeft = global::KDev.Properties.Resources.Empleados;
+            this.Empleado_Btn.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.Empleado_Btn.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.Empleado_Btn.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
+            this.Empleado_Btn.IconMarginLeft = 11;
+            this.Empleado_Btn.IconPadding = 10;
+            this.Empleado_Btn.IconRight = null;
+            this.Empleado_Btn.IconRightAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.Empleado_Btn.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.Empleado_Btn.IconRightPadding = new System.Windows.Forms.Padding(3, 3, 7, 3);
+            this.Empleado_Btn.IconSize = 25;
+            this.Empleado_Btn.IdleBorderColor = System.Drawing.Color.Empty;
+            this.Empleado_Btn.IdleBorderRadius = 0;
+            this.Empleado_Btn.IdleBorderThickness = 0;
+            this.Empleado_Btn.IdleFillColor = System.Drawing.Color.Empty;
+            this.Empleado_Btn.IdleIconLeftImage = global::KDev.Properties.Resources.Empleados;
+            this.Empleado_Btn.IdleIconRightImage = null;
+            this.Empleado_Btn.IndicateFocus = false;
+            this.Empleado_Btn.Location = new System.Drawing.Point(16, 141);
+            this.Empleado_Btn.Name = "Empleado_Btn";
+            this.Empleado_Btn.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.Empleado_Btn.OnDisabledState.BorderRadius = 1;
+            this.Empleado_Btn.OnDisabledState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Empleado_Btn.OnDisabledState.BorderThickness = 1;
+            this.Empleado_Btn.OnDisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.Empleado_Btn.OnDisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
+            this.Empleado_Btn.OnDisabledState.IconLeftImage = null;
+            this.Empleado_Btn.OnDisabledState.IconRightImage = null;
+            this.Empleado_Btn.onHoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Empleado_Btn.onHoverState.BorderRadius = 1;
+            this.Empleado_Btn.onHoverState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Empleado_Btn.onHoverState.BorderThickness = 1;
+            this.Empleado_Btn.onHoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Empleado_Btn.onHoverState.ForeColor = System.Drawing.Color.Black;
+            this.Empleado_Btn.onHoverState.IconLeftImage = null;
+            this.Empleado_Btn.onHoverState.IconRightImage = null;
+            this.Empleado_Btn.OnIdleState.BorderColor = System.Drawing.Color.White;
+            this.Empleado_Btn.OnIdleState.BorderRadius = 1;
+            this.Empleado_Btn.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Empleado_Btn.OnIdleState.BorderThickness = 1;
+            this.Empleado_Btn.OnIdleState.FillColor = System.Drawing.Color.White;
+            this.Empleado_Btn.OnIdleState.ForeColor = System.Drawing.Color.Black;
+            this.Empleado_Btn.OnIdleState.IconLeftImage = global::KDev.Properties.Resources.Empleados;
+            this.Empleado_Btn.OnIdleState.IconRightImage = null;
+            this.Empleado_Btn.OnPressedState.BorderColor = System.Drawing.Color.Red;
+            this.Empleado_Btn.OnPressedState.BorderRadius = 1;
+            this.Empleado_Btn.OnPressedState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Empleado_Btn.OnPressedState.BorderThickness = 1;
+            this.Empleado_Btn.OnPressedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Empleado_Btn.OnPressedState.ForeColor = System.Drawing.Color.Black;
+            this.Empleado_Btn.OnPressedState.IconLeftImage = null;
+            this.Empleado_Btn.OnPressedState.IconRightImage = null;
+            this.Empleado_Btn.Size = new System.Drawing.Size(94, 41);
+            this.Empleado_Btn.TabIndex = 28;
+            this.Empleado_Btn.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.Empleado_Btn.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
+            this.Empleado_Btn.TextMarginLeft = 0;
+            this.Empleado_Btn.TextPadding = new System.Windows.Forms.Padding(0);
+            this.Empleado_Btn.UseDefaultRadiusAndThickness = true;
+            // 
+            // Suplidor_Btn
+            // 
+            this.Suplidor_Btn.AllowAnimations = true;
+            this.Suplidor_Btn.AllowMouseEffects = true;
+            this.Suplidor_Btn.AllowToggling = false;
+            this.Suplidor_Btn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.Suplidor_Btn.AnimationSpeed = 200;
+            this.Suplidor_Btn.AutoGenerateColors = false;
+            this.Suplidor_Btn.AutoRoundBorders = false;
+            this.Suplidor_Btn.AutoSizeLeftIcon = true;
+            this.Suplidor_Btn.AutoSizeRightIcon = true;
+            this.Suplidor_Btn.BackColor = System.Drawing.Color.Transparent;
+            this.Suplidor_Btn.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(122)))), ((int)(((byte)(183)))));
+            this.Suplidor_Btn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Suplidor_Btn.BackgroundImage")));
+            this.Suplidor_Btn.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Suplidor_Btn.ButtonText = "Suplidor";
+            this.Suplidor_Btn.ButtonTextMarginLeft = 0;
+            this.Suplidor_Btn.ColorContrastOnClick = 45;
+            this.Suplidor_Btn.ColorContrastOnHover = 45;
+            this.Suplidor_Btn.Cursor = System.Windows.Forms.Cursors.Default;
+            borderEdges2.BottomLeft = true;
+            borderEdges2.BottomRight = true;
+            borderEdges2.TopLeft = true;
+            borderEdges2.TopRight = true;
+            this.Suplidor_Btn.CustomizableEdges = borderEdges2;
+            this.Suplidor_Btn.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.Suplidor_Btn.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.Suplidor_Btn.DisabledFillColor = System.Drawing.Color.Empty;
+            this.Suplidor_Btn.DisabledForecolor = System.Drawing.Color.Empty;
+            this.Suplidor_Btn.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
+            this.Suplidor_Btn.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.Suplidor_Btn.ForeColor = System.Drawing.Color.Black;
+            this.Suplidor_Btn.IconLeft = global::KDev.Properties.Resources.Proveedores;
+            this.Suplidor_Btn.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.Suplidor_Btn.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.Suplidor_Btn.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
+            this.Suplidor_Btn.IconMarginLeft = 11;
+            this.Suplidor_Btn.IconPadding = 10;
+            this.Suplidor_Btn.IconRight = null;
+            this.Suplidor_Btn.IconRightAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.Suplidor_Btn.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.Suplidor_Btn.IconRightPadding = new System.Windows.Forms.Padding(3, 3, 7, 3);
+            this.Suplidor_Btn.IconSize = 25;
+            this.Suplidor_Btn.IdleBorderColor = System.Drawing.Color.Empty;
+            this.Suplidor_Btn.IdleBorderRadius = 0;
+            this.Suplidor_Btn.IdleBorderThickness = 0;
+            this.Suplidor_Btn.IdleFillColor = System.Drawing.Color.Empty;
+            this.Suplidor_Btn.IdleIconLeftImage = global::KDev.Properties.Resources.Proveedores;
+            this.Suplidor_Btn.IdleIconRightImage = null;
+            this.Suplidor_Btn.IndicateFocus = false;
+            this.Suplidor_Btn.Location = new System.Drawing.Point(16, 47);
+            this.Suplidor_Btn.Name = "Suplidor_Btn";
+            this.Suplidor_Btn.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.Suplidor_Btn.OnDisabledState.BorderRadius = 1;
+            this.Suplidor_Btn.OnDisabledState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Suplidor_Btn.OnDisabledState.BorderThickness = 1;
+            this.Suplidor_Btn.OnDisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.Suplidor_Btn.OnDisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
+            this.Suplidor_Btn.OnDisabledState.IconLeftImage = null;
+            this.Suplidor_Btn.OnDisabledState.IconRightImage = null;
+            this.Suplidor_Btn.onHoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Suplidor_Btn.onHoverState.BorderRadius = 1;
+            this.Suplidor_Btn.onHoverState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Suplidor_Btn.onHoverState.BorderThickness = 1;
+            this.Suplidor_Btn.onHoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Suplidor_Btn.onHoverState.ForeColor = System.Drawing.Color.Black;
+            this.Suplidor_Btn.onHoverState.IconLeftImage = null;
+            this.Suplidor_Btn.onHoverState.IconRightImage = null;
+            this.Suplidor_Btn.OnIdleState.BorderColor = System.Drawing.Color.White;
+            this.Suplidor_Btn.OnIdleState.BorderRadius = 1;
+            this.Suplidor_Btn.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Suplidor_Btn.OnIdleState.BorderThickness = 1;
+            this.Suplidor_Btn.OnIdleState.FillColor = System.Drawing.Color.White;
+            this.Suplidor_Btn.OnIdleState.ForeColor = System.Drawing.Color.Black;
+            this.Suplidor_Btn.OnIdleState.IconLeftImage = global::KDev.Properties.Resources.Proveedores;
+            this.Suplidor_Btn.OnIdleState.IconRightImage = null;
+            this.Suplidor_Btn.OnPressedState.BorderColor = System.Drawing.Color.Red;
+            this.Suplidor_Btn.OnPressedState.BorderRadius = 1;
+            this.Suplidor_Btn.OnPressedState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Suplidor_Btn.OnPressedState.BorderThickness = 1;
+            this.Suplidor_Btn.OnPressedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Suplidor_Btn.OnPressedState.ForeColor = System.Drawing.Color.Black;
+            this.Suplidor_Btn.OnPressedState.IconLeftImage = null;
+            this.Suplidor_Btn.OnPressedState.IconRightImage = null;
+            this.Suplidor_Btn.Size = new System.Drawing.Size(94, 41);
+            this.Suplidor_Btn.TabIndex = 27;
+            this.Suplidor_Btn.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.Suplidor_Btn.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
+            this.Suplidor_Btn.TextMarginLeft = 0;
+            this.Suplidor_Btn.TextPadding = new System.Windows.Forms.Padding(0);
+            this.Suplidor_Btn.UseDefaultRadiusAndThickness = true;
+            // 
+            // Cliente_Btn
+            // 
+            this.Cliente_Btn.AllowAnimations = true;
+            this.Cliente_Btn.AllowMouseEffects = true;
+            this.Cliente_Btn.AllowToggling = false;
+            this.Cliente_Btn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.Cliente_Btn.AnimationSpeed = 200;
+            this.Cliente_Btn.AutoGenerateColors = false;
+            this.Cliente_Btn.AutoRoundBorders = false;
+            this.Cliente_Btn.AutoSizeLeftIcon = true;
+            this.Cliente_Btn.AutoSizeRightIcon = true;
+            this.Cliente_Btn.BackColor = System.Drawing.Color.Transparent;
+            this.Cliente_Btn.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(122)))), ((int)(((byte)(183)))));
+            this.Cliente_Btn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Cliente_Btn.BackgroundImage")));
+            this.Cliente_Btn.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Cliente_Btn.ButtonText = "Clientes";
+            this.Cliente_Btn.ButtonTextMarginLeft = 0;
+            this.Cliente_Btn.ColorContrastOnClick = 45;
+            this.Cliente_Btn.ColorContrastOnHover = 45;
+            this.Cliente_Btn.Cursor = System.Windows.Forms.Cursors.Default;
+            borderEdges4.BottomLeft = true;
+            borderEdges4.BottomRight = true;
+            borderEdges4.TopLeft = true;
+            borderEdges4.TopRight = true;
+            this.Cliente_Btn.CustomizableEdges = borderEdges4;
+            this.Cliente_Btn.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.Cliente_Btn.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.Cliente_Btn.DisabledFillColor = System.Drawing.Color.Empty;
+            this.Cliente_Btn.DisabledForecolor = System.Drawing.Color.Empty;
+            this.Cliente_Btn.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
+            this.Cliente_Btn.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.Cliente_Btn.ForeColor = System.Drawing.Color.Black;
+            this.Cliente_Btn.IconLeft = global::KDev.Properties.Resources.Clientes;
+            this.Cliente_Btn.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.Cliente_Btn.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.Cliente_Btn.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
+            this.Cliente_Btn.IconMarginLeft = 11;
+            this.Cliente_Btn.IconPadding = 10;
+            this.Cliente_Btn.IconRight = null;
+            this.Cliente_Btn.IconRightAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.Cliente_Btn.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.Cliente_Btn.IconRightPadding = new System.Windows.Forms.Padding(3, 3, 7, 3);
+            this.Cliente_Btn.IconSize = 25;
+            this.Cliente_Btn.IdleBorderColor = System.Drawing.Color.Empty;
+            this.Cliente_Btn.IdleBorderRadius = 0;
+            this.Cliente_Btn.IdleBorderThickness = 0;
+            this.Cliente_Btn.IdleFillColor = System.Drawing.Color.Empty;
+            this.Cliente_Btn.IdleIconLeftImage = global::KDev.Properties.Resources.Clientes;
+            this.Cliente_Btn.IdleIconRightImage = null;
+            this.Cliente_Btn.IndicateFocus = false;
+            this.Cliente_Btn.Location = new System.Drawing.Point(16, 94);
+            this.Cliente_Btn.Name = "Cliente_Btn";
+            this.Cliente_Btn.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.Cliente_Btn.OnDisabledState.BorderRadius = 1;
+            this.Cliente_Btn.OnDisabledState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Cliente_Btn.OnDisabledState.BorderThickness = 1;
+            this.Cliente_Btn.OnDisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.Cliente_Btn.OnDisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
+            this.Cliente_Btn.OnDisabledState.IconLeftImage = null;
+            this.Cliente_Btn.OnDisabledState.IconRightImage = null;
+            this.Cliente_Btn.onHoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Cliente_Btn.onHoverState.BorderRadius = 1;
+            this.Cliente_Btn.onHoverState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Cliente_Btn.onHoverState.BorderThickness = 1;
+            this.Cliente_Btn.onHoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Cliente_Btn.onHoverState.ForeColor = System.Drawing.Color.Black;
+            this.Cliente_Btn.onHoverState.IconLeftImage = null;
+            this.Cliente_Btn.onHoverState.IconRightImage = null;
+            this.Cliente_Btn.OnIdleState.BorderColor = System.Drawing.Color.White;
+            this.Cliente_Btn.OnIdleState.BorderRadius = 1;
+            this.Cliente_Btn.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Cliente_Btn.OnIdleState.BorderThickness = 1;
+            this.Cliente_Btn.OnIdleState.FillColor = System.Drawing.Color.White;
+            this.Cliente_Btn.OnIdleState.ForeColor = System.Drawing.Color.Black;
+            this.Cliente_Btn.OnIdleState.IconLeftImage = global::KDev.Properties.Resources.Clientes;
+            this.Cliente_Btn.OnIdleState.IconRightImage = null;
+            this.Cliente_Btn.OnPressedState.BorderColor = System.Drawing.Color.Red;
+            this.Cliente_Btn.OnPressedState.BorderRadius = 1;
+            this.Cliente_Btn.OnPressedState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Cliente_Btn.OnPressedState.BorderThickness = 1;
+            this.Cliente_Btn.OnPressedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Cliente_Btn.OnPressedState.ForeColor = System.Drawing.Color.Black;
+            this.Cliente_Btn.OnPressedState.IconLeftImage = null;
+            this.Cliente_Btn.OnPressedState.IconRightImage = null;
+            this.Cliente_Btn.Size = new System.Drawing.Size(94, 41);
+            this.Cliente_Btn.TabIndex = 26;
+            this.Cliente_Btn.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.Cliente_Btn.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
+            this.Cliente_Btn.TextMarginLeft = 0;
+            this.Cliente_Btn.TextPadding = new System.Windows.Forms.Padding(0);
+            this.Cliente_Btn.UseDefaultRadiusAndThickness = true;
+            // 
+            // Dashboard_Btn
+            // 
+            this.Dashboard_Btn.AllowAnimations = true;
+            this.Dashboard_Btn.AllowMouseEffects = true;
+            this.Dashboard_Btn.AllowToggling = false;
+            this.Dashboard_Btn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.Dashboard_Btn.AnimationSpeed = 200;
+            this.Dashboard_Btn.AutoGenerateColors = false;
+            this.Dashboard_Btn.AutoRoundBorders = false;
+            this.Dashboard_Btn.AutoSizeLeftIcon = true;
+            this.Dashboard_Btn.AutoSizeRightIcon = true;
+            this.Dashboard_Btn.BackColor = System.Drawing.Color.Transparent;
+            this.Dashboard_Btn.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(122)))), ((int)(((byte)(183)))));
+            this.Dashboard_Btn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Dashboard_Btn.BackgroundImage")));
+            this.Dashboard_Btn.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Dashboard_Btn.ButtonText = "Dashboard";
+            this.Dashboard_Btn.ButtonTextMarginLeft = 0;
+            this.Dashboard_Btn.ColorContrastOnClick = 45;
+            this.Dashboard_Btn.ColorContrastOnHover = 45;
+            this.Dashboard_Btn.Cursor = System.Windows.Forms.Cursors.Default;
+            borderEdges8.BottomLeft = true;
+            borderEdges8.BottomRight = true;
+            borderEdges8.TopLeft = true;
+            borderEdges8.TopRight = true;
+            this.Dashboard_Btn.CustomizableEdges = borderEdges8;
+            this.Dashboard_Btn.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.Dashboard_Btn.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.Dashboard_Btn.DisabledFillColor = System.Drawing.Color.Empty;
+            this.Dashboard_Btn.DisabledForecolor = System.Drawing.Color.Empty;
+            this.Dashboard_Btn.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
+            this.Dashboard_Btn.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.Dashboard_Btn.ForeColor = System.Drawing.Color.Black;
+            this.Dashboard_Btn.IconLeft = global::KDev.Properties.Resources.Dashboard;
+            this.Dashboard_Btn.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.Dashboard_Btn.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.Dashboard_Btn.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
+            this.Dashboard_Btn.IconMarginLeft = 11;
+            this.Dashboard_Btn.IconPadding = 10;
+            this.Dashboard_Btn.IconRight = null;
+            this.Dashboard_Btn.IconRightAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.Dashboard_Btn.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.Dashboard_Btn.IconRightPadding = new System.Windows.Forms.Padding(3, 3, 7, 3);
+            this.Dashboard_Btn.IconSize = 25;
+            this.Dashboard_Btn.IdleBorderColor = System.Drawing.Color.Empty;
+            this.Dashboard_Btn.IdleBorderRadius = 0;
+            this.Dashboard_Btn.IdleBorderThickness = 0;
+            this.Dashboard_Btn.IdleFillColor = System.Drawing.Color.Empty;
+            this.Dashboard_Btn.IdleIconLeftImage = global::KDev.Properties.Resources.Dashboard;
+            this.Dashboard_Btn.IdleIconRightImage = null;
+            this.Dashboard_Btn.IndicateFocus = false;
+            this.Dashboard_Btn.Location = new System.Drawing.Point(16, 188);
+            this.Dashboard_Btn.Name = "Dashboard_Btn";
+            this.Dashboard_Btn.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.Dashboard_Btn.OnDisabledState.BorderRadius = 1;
+            this.Dashboard_Btn.OnDisabledState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Dashboard_Btn.OnDisabledState.BorderThickness = 1;
+            this.Dashboard_Btn.OnDisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.Dashboard_Btn.OnDisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
+            this.Dashboard_Btn.OnDisabledState.IconLeftImage = null;
+            this.Dashboard_Btn.OnDisabledState.IconRightImage = null;
+            this.Dashboard_Btn.onHoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Dashboard_Btn.onHoverState.BorderRadius = 1;
+            this.Dashboard_Btn.onHoverState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Dashboard_Btn.onHoverState.BorderThickness = 1;
+            this.Dashboard_Btn.onHoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Dashboard_Btn.onHoverState.ForeColor = System.Drawing.Color.Black;
+            this.Dashboard_Btn.onHoverState.IconLeftImage = null;
+            this.Dashboard_Btn.onHoverState.IconRightImage = null;
+            this.Dashboard_Btn.OnIdleState.BorderColor = System.Drawing.Color.White;
+            this.Dashboard_Btn.OnIdleState.BorderRadius = 1;
+            this.Dashboard_Btn.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Dashboard_Btn.OnIdleState.BorderThickness = 1;
+            this.Dashboard_Btn.OnIdleState.FillColor = System.Drawing.Color.White;
+            this.Dashboard_Btn.OnIdleState.ForeColor = System.Drawing.Color.Black;
+            this.Dashboard_Btn.OnIdleState.IconLeftImage = global::KDev.Properties.Resources.Dashboard;
+            this.Dashboard_Btn.OnIdleState.IconRightImage = null;
+            this.Dashboard_Btn.OnPressedState.BorderColor = System.Drawing.Color.Red;
+            this.Dashboard_Btn.OnPressedState.BorderRadius = 1;
+            this.Dashboard_Btn.OnPressedState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Dashboard_Btn.OnPressedState.BorderThickness = 1;
+            this.Dashboard_Btn.OnPressedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Dashboard_Btn.OnPressedState.ForeColor = System.Drawing.Color.Black;
+            this.Dashboard_Btn.OnPressedState.IconLeftImage = null;
+            this.Dashboard_Btn.OnPressedState.IconRightImage = null;
+            this.Dashboard_Btn.Size = new System.Drawing.Size(94, 41);
+            this.Dashboard_Btn.TabIndex = 25;
+            this.Dashboard_Btn.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.Dashboard_Btn.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
+            this.Dashboard_Btn.TextMarginLeft = 0;
+            this.Dashboard_Btn.TextPadding = new System.Windows.Forms.Padding(0);
+            this.Dashboard_Btn.UseDefaultRadiusAndThickness = true;
+            // 
+            // Pedido_Btn
+            // 
+            this.Pedido_Btn.AllowAnimations = true;
+            this.Pedido_Btn.AllowMouseEffects = true;
+            this.Pedido_Btn.AllowToggling = false;
+            this.Pedido_Btn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.Pedido_Btn.AnimationSpeed = 200;
+            this.Pedido_Btn.AutoGenerateColors = false;
+            this.Pedido_Btn.AutoRoundBorders = false;
+            this.Pedido_Btn.AutoSizeLeftIcon = true;
+            this.Pedido_Btn.AutoSizeRightIcon = true;
+            this.Pedido_Btn.BackColor = System.Drawing.Color.Transparent;
+            this.Pedido_Btn.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(122)))), ((int)(((byte)(183)))));
+            this.Pedido_Btn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Pedido_Btn.BackgroundImage")));
+            this.Pedido_Btn.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Pedido_Btn.ButtonText = "Pedidos";
+            this.Pedido_Btn.ButtonTextMarginLeft = 0;
+            this.Pedido_Btn.ColorContrastOnClick = 45;
+            this.Pedido_Btn.ColorContrastOnHover = 45;
+            this.Pedido_Btn.Cursor = System.Windows.Forms.Cursors.Default;
+            borderEdges7.BottomLeft = true;
+            borderEdges7.BottomRight = true;
+            borderEdges7.TopLeft = true;
+            borderEdges7.TopRight = true;
+            this.Pedido_Btn.CustomizableEdges = borderEdges7;
+            this.Pedido_Btn.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.Pedido_Btn.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.Pedido_Btn.DisabledFillColor = System.Drawing.Color.Empty;
+            this.Pedido_Btn.DisabledForecolor = System.Drawing.Color.Empty;
+            this.Pedido_Btn.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
+            this.Pedido_Btn.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.Pedido_Btn.ForeColor = System.Drawing.Color.Black;
+            this.Pedido_Btn.IconLeft = global::KDev.Properties.Resources.Pedidos;
+            this.Pedido_Btn.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.Pedido_Btn.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.Pedido_Btn.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
+            this.Pedido_Btn.IconMarginLeft = 11;
+            this.Pedido_Btn.IconPadding = 10;
+            this.Pedido_Btn.IconRight = null;
+            this.Pedido_Btn.IconRightAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.Pedido_Btn.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.Pedido_Btn.IconRightPadding = new System.Windows.Forms.Padding(3, 3, 7, 3);
+            this.Pedido_Btn.IconSize = 25;
+            this.Pedido_Btn.IdleBorderColor = System.Drawing.Color.Empty;
+            this.Pedido_Btn.IdleBorderRadius = 0;
+            this.Pedido_Btn.IdleBorderThickness = 0;
+            this.Pedido_Btn.IdleFillColor = System.Drawing.Color.Empty;
+            this.Pedido_Btn.IdleIconLeftImage = global::KDev.Properties.Resources.Pedidos;
+            this.Pedido_Btn.IdleIconRightImage = null;
+            this.Pedido_Btn.IndicateFocus = false;
+            this.Pedido_Btn.Location = new System.Drawing.Point(16, 282);
+            this.Pedido_Btn.Name = "Pedido_Btn";
+            this.Pedido_Btn.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.Pedido_Btn.OnDisabledState.BorderRadius = 1;
+            this.Pedido_Btn.OnDisabledState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Pedido_Btn.OnDisabledState.BorderThickness = 1;
+            this.Pedido_Btn.OnDisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.Pedido_Btn.OnDisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
+            this.Pedido_Btn.OnDisabledState.IconLeftImage = null;
+            this.Pedido_Btn.OnDisabledState.IconRightImage = null;
+            this.Pedido_Btn.onHoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Pedido_Btn.onHoverState.BorderRadius = 1;
+            this.Pedido_Btn.onHoverState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Pedido_Btn.onHoverState.BorderThickness = 1;
+            this.Pedido_Btn.onHoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Pedido_Btn.onHoverState.ForeColor = System.Drawing.Color.Black;
+            this.Pedido_Btn.onHoverState.IconLeftImage = null;
+            this.Pedido_Btn.onHoverState.IconRightImage = null;
+            this.Pedido_Btn.OnIdleState.BorderColor = System.Drawing.Color.White;
+            this.Pedido_Btn.OnIdleState.BorderRadius = 1;
+            this.Pedido_Btn.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Pedido_Btn.OnIdleState.BorderThickness = 1;
+            this.Pedido_Btn.OnIdleState.FillColor = System.Drawing.Color.White;
+            this.Pedido_Btn.OnIdleState.ForeColor = System.Drawing.Color.Black;
+            this.Pedido_Btn.OnIdleState.IconLeftImage = global::KDev.Properties.Resources.Pedidos;
+            this.Pedido_Btn.OnIdleState.IconRightImage = null;
+            this.Pedido_Btn.OnPressedState.BorderColor = System.Drawing.Color.Red;
+            this.Pedido_Btn.OnPressedState.BorderRadius = 1;
+            this.Pedido_Btn.OnPressedState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Pedido_Btn.OnPressedState.BorderThickness = 1;
+            this.Pedido_Btn.OnPressedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Pedido_Btn.OnPressedState.ForeColor = System.Drawing.Color.Black;
+            this.Pedido_Btn.OnPressedState.IconLeftImage = null;
+            this.Pedido_Btn.OnPressedState.IconRightImage = null;
+            this.Pedido_Btn.Size = new System.Drawing.Size(94, 41);
+            this.Pedido_Btn.TabIndex = 24;
+            this.Pedido_Btn.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.Pedido_Btn.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
+            this.Pedido_Btn.TextMarginLeft = 0;
+            this.Pedido_Btn.TextPadding = new System.Windows.Forms.Padding(0);
+            this.Pedido_Btn.UseDefaultRadiusAndThickness = true;
+            // 
+            // Inventario_Btn
+            // 
+            this.Inventario_Btn.AllowAnimations = true;
+            this.Inventario_Btn.AllowMouseEffects = true;
+            this.Inventario_Btn.AllowToggling = false;
+            this.Inventario_Btn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.Inventario_Btn.AnimationSpeed = 200;
+            this.Inventario_Btn.AutoGenerateColors = false;
+            this.Inventario_Btn.AutoRoundBorders = false;
+            this.Inventario_Btn.AutoSizeLeftIcon = true;
+            this.Inventario_Btn.AutoSizeRightIcon = true;
+            this.Inventario_Btn.BackColor = System.Drawing.Color.Transparent;
+            this.Inventario_Btn.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(122)))), ((int)(((byte)(183)))));
+            this.Inventario_Btn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Inventario_Btn.BackgroundImage")));
+            this.Inventario_Btn.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Inventario_Btn.ButtonText = "Inventario";
+            this.Inventario_Btn.ButtonTextMarginLeft = 0;
+            this.Inventario_Btn.ColorContrastOnClick = 45;
+            this.Inventario_Btn.ColorContrastOnHover = 45;
+            this.Inventario_Btn.Cursor = System.Windows.Forms.Cursors.Default;
+            borderEdges1.BottomLeft = true;
+            borderEdges1.BottomRight = true;
+            borderEdges1.TopLeft = true;
+            borderEdges1.TopRight = true;
+            this.Inventario_Btn.CustomizableEdges = borderEdges1;
+            this.Inventario_Btn.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.Inventario_Btn.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.Inventario_Btn.DisabledFillColor = System.Drawing.Color.Empty;
+            this.Inventario_Btn.DisabledForecolor = System.Drawing.Color.Empty;
+            this.Inventario_Btn.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
+            this.Inventario_Btn.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.Inventario_Btn.ForeColor = System.Drawing.Color.Black;
+            this.Inventario_Btn.IconLeft = global::KDev.Properties.Resources.Inventario;
+            this.Inventario_Btn.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.Inventario_Btn.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.Inventario_Btn.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
+            this.Inventario_Btn.IconMarginLeft = 11;
+            this.Inventario_Btn.IconPadding = 10;
+            this.Inventario_Btn.IconRight = null;
+            this.Inventario_Btn.IconRightAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.Inventario_Btn.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.Inventario_Btn.IconRightPadding = new System.Windows.Forms.Padding(3, 3, 7, 3);
+            this.Inventario_Btn.IconSize = 25;
+            this.Inventario_Btn.IdleBorderColor = System.Drawing.Color.Empty;
+            this.Inventario_Btn.IdleBorderRadius = 0;
+            this.Inventario_Btn.IdleBorderThickness = 0;
+            this.Inventario_Btn.IdleFillColor = System.Drawing.Color.Empty;
+            this.Inventario_Btn.IdleIconLeftImage = global::KDev.Properties.Resources.Inventario;
+            this.Inventario_Btn.IdleIconRightImage = null;
+            this.Inventario_Btn.IndicateFocus = false;
+            this.Inventario_Btn.Location = new System.Drawing.Point(16, 0);
+            this.Inventario_Btn.Name = "Inventario_Btn";
+            this.Inventario_Btn.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.Inventario_Btn.OnDisabledState.BorderRadius = 1;
+            this.Inventario_Btn.OnDisabledState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Inventario_Btn.OnDisabledState.BorderThickness = 1;
+            this.Inventario_Btn.OnDisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.Inventario_Btn.OnDisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
+            this.Inventario_Btn.OnDisabledState.IconLeftImage = null;
+            this.Inventario_Btn.OnDisabledState.IconRightImage = null;
+            this.Inventario_Btn.onHoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Inventario_Btn.onHoverState.BorderRadius = 1;
+            this.Inventario_Btn.onHoverState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Inventario_Btn.onHoverState.BorderThickness = 1;
+            this.Inventario_Btn.onHoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Inventario_Btn.onHoverState.ForeColor = System.Drawing.Color.Black;
+            this.Inventario_Btn.onHoverState.IconLeftImage = null;
+            this.Inventario_Btn.onHoverState.IconRightImage = null;
+            this.Inventario_Btn.OnIdleState.BorderColor = System.Drawing.Color.White;
+            this.Inventario_Btn.OnIdleState.BorderRadius = 1;
+            this.Inventario_Btn.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Inventario_Btn.OnIdleState.BorderThickness = 1;
+            this.Inventario_Btn.OnIdleState.FillColor = System.Drawing.Color.White;
+            this.Inventario_Btn.OnIdleState.ForeColor = System.Drawing.Color.Black;
+            this.Inventario_Btn.OnIdleState.IconLeftImage = global::KDev.Properties.Resources.Inventario;
+            this.Inventario_Btn.OnIdleState.IconRightImage = null;
+            this.Inventario_Btn.OnPressedState.BorderColor = System.Drawing.Color.Red;
+            this.Inventario_Btn.OnPressedState.BorderRadius = 1;
+            this.Inventario_Btn.OnPressedState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.Inventario_Btn.OnPressedState.BorderThickness = 1;
+            this.Inventario_Btn.OnPressedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Inventario_Btn.OnPressedState.ForeColor = System.Drawing.Color.Black;
+            this.Inventario_Btn.OnPressedState.IconLeftImage = null;
+            this.Inventario_Btn.OnPressedState.IconRightImage = null;
+            this.Inventario_Btn.Size = new System.Drawing.Size(94, 41);
+            this.Inventario_Btn.TabIndex = 0;
+            this.Inventario_Btn.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.Inventario_Btn.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
+            this.Inventario_Btn.TextMarginLeft = 0;
+            this.Inventario_Btn.TextPadding = new System.Windows.Forms.Padding(0);
+            this.Inventario_Btn.UseDefaultRadiusAndThickness = true;
+            // 
+            // panel4
+            // 
+            this.panel4.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.panel4.Controls.Add(this.Separador1);
+            this.panel4.Controls.Add(this.Contactos_Label);
+            this.panel4.Controls.Add(this.WhastApp_Btn);
+            this.panel4.Controls.Add(this.Correo_Btn);
+            this.panel4.Location = new System.Drawing.Point(18, 688);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(82, 78);
+            this.panel4.TabIndex = 4;
+            // 
+            // Separador1
+            // 
+            this.Separador1.BackColor = System.Drawing.Color.Transparent;
+            this.Separador1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Separador1.BackgroundImage")));
+            this.Separador1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Separador1.DashCap = Bunifu.UI.WinForms.BunifuSeparator.CapStyles.Flat;
+            this.Separador1.LineColor = System.Drawing.Color.Silver;
+            this.Separador1.LineStyle = Bunifu.UI.WinForms.BunifuSeparator.LineStyles.Solid;
+            this.Separador1.LineThickness = 1;
+            this.Separador1.Location = new System.Drawing.Point(13, 27);
+            this.Separador1.Name = "Separador1";
+            this.Separador1.Orientation = Bunifu.UI.WinForms.BunifuSeparator.LineOrientation.Horizontal;
+            this.Separador1.Size = new System.Drawing.Size(56, 11);
+            this.Separador1.TabIndex = 0;
+            // 
+            // Contactos_Label
+            // 
+            this.Contactos_Label.AllowParentOverrides = false;
+            this.Contactos_Label.AutoEllipsis = false;
+            this.Contactos_Label.Cursor = System.Windows.Forms.Cursors.Default;
+            this.Contactos_Label.CursorType = System.Windows.Forms.Cursors.Default;
+            this.Contactos_Label.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.Contactos_Label.ForeColor = System.Drawing.Color.DimGray;
+            this.Contactos_Label.Location = new System.Drawing.Point(13, 10);
+            this.Contactos_Label.Name = "Contactos_Label";
+            this.Contactos_Label.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.Contactos_Label.Size = new System.Drawing.Size(56, 17);
+            this.Contactos_Label.TabIndex = 14;
+            this.Contactos_Label.Text = "Contactar";
+            this.Contactos_Label.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
+            this.Contactos_Label.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
+            // 
+            // WhastApp_Btn
+            // 
+            this.WhastApp_Btn.ActiveImage = null;
+            this.WhastApp_Btn.AllowAnimations = true;
+            this.WhastApp_Btn.AllowBuffering = false;
+            this.WhastApp_Btn.AllowToggling = false;
+            this.WhastApp_Btn.AllowZooming = true;
+            this.WhastApp_Btn.AllowZoomingOnFocus = false;
+            this.WhastApp_Btn.BackColor = System.Drawing.Color.White;
+            this.WhastApp_Btn.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.WhastApp_Btn.ErrorImage = ((System.Drawing.Image)(resources.GetObject("WhastApp_Btn.ErrorImage")));
+            this.WhastApp_Btn.FadeWhenInactive = false;
+            this.WhastApp_Btn.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
+            this.WhastApp_Btn.Image = global::KDev.Properties.Resources.Whatsapp;
+            this.WhastApp_Btn.ImageActive = null;
+            this.WhastApp_Btn.ImageLocation = null;
+            this.WhastApp_Btn.ImageMargin = 20;
+            this.WhastApp_Btn.ImageSize = new System.Drawing.Size(17, 17);
+            this.WhastApp_Btn.ImageZoomSize = new System.Drawing.Size(37, 37);
+            this.WhastApp_Btn.InitialImage = ((System.Drawing.Image)(resources.GetObject("WhastApp_Btn.InitialImage")));
+            this.WhastApp_Btn.Location = new System.Drawing.Point(42, 34);
+            this.WhastApp_Btn.Name = "WhastApp_Btn";
+            this.WhastApp_Btn.Rotation = 0;
+            this.WhastApp_Btn.ShowActiveImage = true;
+            this.WhastApp_Btn.ShowCursorChanges = true;
+            this.WhastApp_Btn.ShowImageBorders = true;
+            this.WhastApp_Btn.ShowSizeMarkers = false;
+            this.WhastApp_Btn.Size = new System.Drawing.Size(37, 37);
+            this.WhastApp_Btn.TabIndex = 17;
+            this.WhastApp_Btn.ToolTipText = "";
+            this.WhastApp_Btn.WaitOnLoad = false;
+            this.WhastApp_Btn.Zoom = 20;
+            this.WhastApp_Btn.ZoomSpeed = 10;
+            // 
+            // Correo_Btn
+            // 
+            this.Correo_Btn.ActiveImage = null;
+            this.Correo_Btn.AllowAnimations = true;
+            this.Correo_Btn.AllowBuffering = false;
+            this.Correo_Btn.AllowToggling = false;
+            this.Correo_Btn.AllowZooming = true;
+            this.Correo_Btn.AllowZoomingOnFocus = false;
+            this.Correo_Btn.BackColor = System.Drawing.Color.White;
+            this.Correo_Btn.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.Correo_Btn.ErrorImage = ((System.Drawing.Image)(resources.GetObject("Correo_Btn.ErrorImage")));
+            this.Correo_Btn.FadeWhenInactive = false;
+            this.Correo_Btn.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
+            this.Correo_Btn.Image = global::KDev.Properties.Resources.Correo;
+            this.Correo_Btn.ImageActive = null;
+            this.Correo_Btn.ImageLocation = null;
+            this.Correo_Btn.ImageMargin = 20;
+            this.Correo_Btn.ImageSize = new System.Drawing.Size(17, 17);
+            this.Correo_Btn.ImageZoomSize = new System.Drawing.Size(37, 37);
+            this.Correo_Btn.InitialImage = ((System.Drawing.Image)(resources.GetObject("Correo_Btn.InitialImage")));
+            this.Correo_Btn.Location = new System.Drawing.Point(3, 34);
+            this.Correo_Btn.Name = "Correo_Btn";
+            this.Correo_Btn.Rotation = 0;
+            this.Correo_Btn.ShowActiveImage = true;
+            this.Correo_Btn.ShowCursorChanges = true;
+            this.Correo_Btn.ShowImageBorders = true;
+            this.Correo_Btn.ShowSizeMarkers = false;
+            this.Correo_Btn.Size = new System.Drawing.Size(37, 37);
+            this.Correo_Btn.TabIndex = 16;
+            this.Correo_Btn.ToolTipText = "";
+            this.Correo_Btn.WaitOnLoad = false;
+            this.Correo_Btn.Zoom = 20;
+            this.Correo_Btn.ZoomSpeed = 10;
+            // 
+            // CerrarSesion_Btn
+            // 
+            this.CerrarSesion_Btn.ActiveBorderThickness = 1;
+            this.CerrarSesion_Btn.ActiveCornerRadius = 20;
+            this.CerrarSesion_Btn.ActiveFillColor = System.Drawing.Color.Red;
+            this.CerrarSesion_Btn.ActiveForecolor = System.Drawing.Color.White;
+            this.CerrarSesion_Btn.ActiveLineColor = System.Drawing.Color.Red;
+            this.CerrarSesion_Btn.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.CerrarSesion_Btn.BackColor = System.Drawing.Color.White;
+            this.CerrarSesion_Btn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("CerrarSesion_Btn.BackgroundImage")));
+            this.CerrarSesion_Btn.ButtonText = "Cerrar sesión";
+            this.CerrarSesion_Btn.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.CerrarSesion_Btn.Font = new System.Drawing.Font("Century Gothic", 8F);
+            this.CerrarSesion_Btn.ForeColor = System.Drawing.Color.Red;
+            this.CerrarSesion_Btn.IdleBorderThickness = 1;
+            this.CerrarSesion_Btn.IdleCornerRadius = 20;
+            this.CerrarSesion_Btn.IdleFillColor = System.Drawing.Color.White;
+            this.CerrarSesion_Btn.IdleForecolor = System.Drawing.Color.Red;
+            this.CerrarSesion_Btn.IdleLineColor = System.Drawing.Color.Red;
+            this.CerrarSesion_Btn.Location = new System.Drawing.Point(18, 816);
+            this.CerrarSesion_Btn.Margin = new System.Windows.Forms.Padding(5);
+            this.CerrarSesion_Btn.Name = "CerrarSesion_Btn";
+            this.CerrarSesion_Btn.Size = new System.Drawing.Size(82, 42);
+            this.CerrarSesion_Btn.TabIndex = 13;
+            this.CerrarSesion_Btn.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // panel3
+            // 
+            this.panel3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.panel3.Controls.Add(this.panel5);
+            this.panel3.Controls.Add(this.Administrador_Panel);
+            this.panel3.Controls.Add(this.bunifuImageButton2);
+            this.panel3.Location = new System.Drawing.Point(-2, 12);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(1062, 94);
+            this.panel3.TabIndex = 3;
+            // 
+            // panel5
+            // 
+            this.panel5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.panel5.Controls.Add(this.bunifuSeparator2);
+            this.panel5.Controls.Add(this.UsuarioBienvenidad_txt);
+            this.panel5.Controls.Add(this.Bienvenida_Txt);
+            this.panel5.Location = new System.Drawing.Point(135, 3);
+            this.panel5.Name = "panel5";
+            this.panel5.Size = new System.Drawing.Size(468, 88);
+            this.panel5.TabIndex = 18;
+            // 
+            // UsuarioBienvenidad_txt
+            // 
+            this.UsuarioBienvenidad_txt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.UsuarioBienvenidad_txt.Location = new System.Drawing.Point(12, 61);
+            this.UsuarioBienvenidad_txt.Name = "UsuarioBienvenidad_txt";
+            this.UsuarioBienvenidad_txt.Size = new System.Drawing.Size(425, 20);
+            this.UsuarioBienvenidad_txt.TabIndex = 1;
+            // 
+            // Bienvenida_Txt
+            // 
+            this.Bienvenida_Txt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.Bienvenida_Txt.Location = new System.Drawing.Point(12, 8);
+            this.Bienvenida_Txt.Multiline = true;
+            this.Bienvenida_Txt.Name = "Bienvenida_Txt";
+            this.Bienvenida_Txt.Size = new System.Drawing.Size(425, 47);
+            this.Bienvenida_Txt.TabIndex = 0;
+            // 
+            // Administrador_Panel
+            // 
+            this.Administrador_Panel.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.Administrador_Panel.Controls.Add(this.panel7);
+            this.Administrador_Panel.Controls.Add(this.Fecha_Txt);
+            this.Administrador_Panel.Controls.Add(this.bunifuImageButton1);
+            this.Administrador_Panel.Location = new System.Drawing.Point(603, 3);
+            this.Administrador_Panel.Name = "Administrador_Panel";
+            this.Administrador_Panel.Size = new System.Drawing.Size(456, 88);
+            this.Administrador_Panel.TabIndex = 15;
+            // 
+            // Fecha_Txt
+            // 
+            this.Fecha_Txt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.Fecha_Txt.Location = new System.Drawing.Point(6, 9);
+            this.Fecha_Txt.Multiline = true;
+            this.Fecha_Txt.Name = "Fecha_Txt";
+            this.Fecha_Txt.Size = new System.Drawing.Size(204, 72);
+            this.Fecha_Txt.TabIndex = 0;
+            // 
+            // bunifuImageButton1
+            // 
+            this.bunifuImageButton1.ActiveImage = null;
+            this.bunifuImageButton1.AllowAnimations = true;
+            this.bunifuImageButton1.AllowBuffering = false;
+            this.bunifuImageButton1.AllowToggling = false;
+            this.bunifuImageButton1.AllowZooming = true;
+            this.bunifuImageButton1.AllowZoomingOnFocus = false;
+            this.bunifuImageButton1.BackColor = System.Drawing.Color.Transparent;
+            this.bunifuImageButton1.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.bunifuImageButton1.ErrorImage = ((System.Drawing.Image)(resources.GetObject("bunifuImageButton1.ErrorImage")));
+            this.bunifuImageButton1.FadeWhenInactive = false;
+            this.bunifuImageButton1.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
+            this.bunifuImageButton1.Image = global::KDev.Properties.Resources.Configuracion;
+            this.bunifuImageButton1.ImageActive = null;
+            this.bunifuImageButton1.ImageLocation = null;
+            this.bunifuImageButton1.ImageMargin = 20;
+            this.bunifuImageButton1.ImageSize = new System.Drawing.Size(24, 22);
+            this.bunifuImageButton1.ImageZoomSize = new System.Drawing.Size(44, 42);
+            this.bunifuImageButton1.InitialImage = ((System.Drawing.Image)(resources.GetObject("bunifuImageButton1.InitialImage")));
+            this.bunifuImageButton1.Location = new System.Drawing.Point(211, 24);
+            this.bunifuImageButton1.Name = "bunifuImageButton1";
+            this.bunifuImageButton1.Rotation = 0;
+            this.bunifuImageButton1.ShowActiveImage = true;
+            this.bunifuImageButton1.ShowCursorChanges = true;
+            this.bunifuImageButton1.ShowImageBorders = true;
+            this.bunifuImageButton1.ShowSizeMarkers = false;
+            this.bunifuImageButton1.Size = new System.Drawing.Size(44, 42);
+            this.bunifuImageButton1.TabIndex = 17;
+            this.bunifuImageButton1.ToolTipText = "";
+            this.bunifuImageButton1.WaitOnLoad = false;
+            this.bunifuImageButton1.Zoom = 20;
+            this.bunifuImageButton1.ZoomSpeed = 10;
+            // 
+            // bunifuSeparator1
+            // 
+            this.bunifuSeparator1.BackColor = System.Drawing.Color.Transparent;
+            this.bunifuSeparator1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuSeparator1.BackgroundImage")));
+            this.bunifuSeparator1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.bunifuSeparator1.DashCap = Bunifu.UI.WinForms.BunifuSeparator.CapStyles.Flat;
+            this.bunifuSeparator1.LineColor = System.Drawing.Color.Red;
+            this.bunifuSeparator1.LineStyle = Bunifu.UI.WinForms.BunifuSeparator.LineStyles.Solid;
+            this.bunifuSeparator1.LineThickness = 1;
+            this.bunifuSeparator1.Location = new System.Drawing.Point(1, 16);
+            this.bunifuSeparator1.Name = "bunifuSeparator1";
+            this.bunifuSeparator1.Orientation = Bunifu.UI.WinForms.BunifuSeparator.LineOrientation.Vertical;
+            this.bunifuSeparator1.Size = new System.Drawing.Size(12, 42);
+            this.bunifuSeparator1.TabIndex = 16;
+            // 
+            // Gasto_Btn
+            // 
+            this.Gasto_Btn.ActiveBorderThickness = 1;
+            this.Gasto_Btn.ActiveCornerRadius = 20;
+            this.Gasto_Btn.ActiveFillColor = System.Drawing.Color.Green;
+            this.Gasto_Btn.ActiveForecolor = System.Drawing.Color.White;
+            this.Gasto_Btn.ActiveLineColor = System.Drawing.Color.Green;
+            this.Gasto_Btn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Gasto_Btn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Gasto_Btn.BackgroundImage")));
+            this.Gasto_Btn.ButtonText = "Gasto";
+            this.Gasto_Btn.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Gasto_Btn.Font = new System.Drawing.Font("Century Gothic", 8F);
+            this.Gasto_Btn.ForeColor = System.Drawing.Color.Red;
+            this.Gasto_Btn.IdleBorderThickness = 1;
+            this.Gasto_Btn.IdleCornerRadius = 20;
+            this.Gasto_Btn.IdleFillColor = System.Drawing.Color.Transparent;
+            this.Gasto_Btn.IdleForecolor = System.Drawing.Color.Red;
+            this.Gasto_Btn.IdleLineColor = System.Drawing.Color.Red;
+            this.Gasto_Btn.Location = new System.Drawing.Point(113, 16);
+            this.Gasto_Btn.Margin = new System.Windows.Forms.Padding(5);
+            this.Gasto_Btn.Name = "Gasto_Btn";
+            this.Gasto_Btn.Size = new System.Drawing.Size(82, 42);
+            this.Gasto_Btn.TabIndex = 15;
+            this.Gasto_Btn.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // Venta_Btn
+            // 
+            this.Venta_Btn.ActiveBorderThickness = 1;
+            this.Venta_Btn.ActiveCornerRadius = 20;
+            this.Venta_Btn.ActiveFillColor = System.Drawing.Color.Red;
+            this.Venta_Btn.ActiveForecolor = System.Drawing.Color.White;
+            this.Venta_Btn.ActiveLineColor = System.Drawing.Color.Red;
+            this.Venta_Btn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Venta_Btn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Venta_Btn.BackgroundImage")));
+            this.Venta_Btn.ButtonText = "Venta";
+            this.Venta_Btn.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Venta_Btn.Font = new System.Drawing.Font("Century Gothic", 8F);
+            this.Venta_Btn.ForeColor = System.Drawing.Color.White;
+            this.Venta_Btn.IdleBorderThickness = 1;
+            this.Venta_Btn.IdleCornerRadius = 20;
+            this.Venta_Btn.IdleFillColor = System.Drawing.Color.Transparent;
+            this.Venta_Btn.IdleForecolor = System.Drawing.Color.Red;
+            this.Venta_Btn.IdleLineColor = System.Drawing.Color.Red;
+            this.Venta_Btn.Location = new System.Drawing.Point(21, 16);
+            this.Venta_Btn.Margin = new System.Windows.Forms.Padding(5);
+            this.Venta_Btn.Name = "Venta_Btn";
+            this.Venta_Btn.Size = new System.Drawing.Size(82, 42);
+            this.Venta_Btn.TabIndex = 14;
+            this.Venta_Btn.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // bunifuImageButton2
+            // 
+            this.bunifuImageButton2.ActiveImage = null;
+            this.bunifuImageButton2.AllowAnimations = true;
+            this.bunifuImageButton2.AllowBuffering = false;
+            this.bunifuImageButton2.AllowToggling = false;
+            this.bunifuImageButton2.AllowZooming = true;
+            this.bunifuImageButton2.AllowZoomingOnFocus = false;
+            this.bunifuImageButton2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
+            this.bunifuImageButton2.BackColor = System.Drawing.Color.Transparent;
+            this.bunifuImageButton2.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.bunifuImageButton2.ErrorImage = ((System.Drawing.Image)(resources.GetObject("bunifuImageButton2.ErrorImage")));
+            this.bunifuImageButton2.FadeWhenInactive = false;
+            this.bunifuImageButton2.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
+            this.bunifuImageButton2.Image = global::KDev.Properties.Resources.KDev_JPG;
+            this.bunifuImageButton2.ImageActive = null;
+            this.bunifuImageButton2.ImageLocation = null;
+            this.bunifuImageButton2.ImageMargin = 20;
+            this.bunifuImageButton2.ImageSize = new System.Drawing.Size(83, 80);
+            this.bunifuImageButton2.ImageZoomSize = new System.Drawing.Size(103, 100);
+            this.bunifuImageButton2.InitialImage = ((System.Drawing.Image)(resources.GetObject("bunifuImageButton2.InitialImage")));
+            this.bunifuImageButton2.Location = new System.Drawing.Point(21, -3);
+            this.bunifuImageButton2.Name = "bunifuImageButton2";
+            this.bunifuImageButton2.Rotation = 0;
+            this.bunifuImageButton2.ShowActiveImage = true;
+            this.bunifuImageButton2.ShowCursorChanges = true;
+            this.bunifuImageButton2.ShowImageBorders = true;
+            this.bunifuImageButton2.ShowSizeMarkers = false;
+            this.bunifuImageButton2.Size = new System.Drawing.Size(103, 100);
+            this.bunifuImageButton2.TabIndex = 14;
+            this.bunifuImageButton2.ToolTipText = "";
+            this.bunifuImageButton2.WaitOnLoad = false;
+            this.bunifuImageButton2.Zoom = 20;
+            this.bunifuImageButton2.ZoomSpeed = 10;
+            // 
+            // Dashboard_FLPanel
+            // 
+            this.Dashboard_FLPanel.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.Dashboard_FLPanel.BackgroundImage = global::KDev.Properties.Resources.KDev_JPG;
+            this.Dashboard_FLPanel.Location = new System.Drawing.Point(133, 127);
+            this.Dashboard_FLPanel.Name = "Dashboard_FLPanel";
+            this.Dashboard_FLPanel.Size = new System.Drawing.Size(927, 751);
+            this.Dashboard_FLPanel.TabIndex = 6;
+            // 
+            // flowLayoutPanel1
+            // 
+            this.flowLayoutPanel1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.flowLayoutPanel1.BackColor = System.Drawing.Color.White;
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(1071, 127);
+            this.flowLayoutPanel1.Name = "flowLayoutPanel1";
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(53, 751);
+            this.flowLayoutPanel1.TabIndex = 7;
+            // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.VerticalStackWithOverflow;
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
+            // 
+            // bunifuSeparator2
+            // 
+            this.bunifuSeparator2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
+            this.bunifuSeparator2.BackColor = System.Drawing.Color.Transparent;
+            this.bunifuSeparator2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuSeparator2.BackgroundImage")));
+            this.bunifuSeparator2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.bunifuSeparator2.DashCap = Bunifu.UI.WinForms.BunifuSeparator.CapStyles.Flat;
+            this.bunifuSeparator2.LineColor = System.Drawing.Color.White;
+            this.bunifuSeparator2.LineStyle = Bunifu.UI.WinForms.BunifuSeparator.LineStyles.Solid;
+            this.bunifuSeparator2.LineThickness = 1;
+            this.bunifuSeparator2.Location = new System.Drawing.Point(450, 19);
+            this.bunifuSeparator2.Name = "bunifuSeparator2";
+            this.bunifuSeparator2.Orientation = Bunifu.UI.WinForms.BunifuSeparator.LineOrientation.Vertical;
+            this.bunifuSeparator2.Size = new System.Drawing.Size(15, 52);
+            this.bunifuSeparator2.TabIndex = 17;
+            // 
+            // panel6
+            // 
+            this.panel6.BackColor = System.Drawing.Color.White;
+            this.panel6.Controls.Add(this.Inventario_Btn);
+            this.panel6.Controls.Add(this.Suplidor_Btn);
+            this.panel6.Controls.Add(this.Proyectos_Btn);
+            this.panel6.Controls.Add(this.Cliente_Btn);
+            this.panel6.Controls.Add(this.Marketing_Btn);
+            this.panel6.Controls.Add(this.Empleado_Btn);
+            this.panel6.Controls.Add(this.Pedido_Btn);
+            this.panel6.Controls.Add(this.Dashboard_Btn);
+            this.panel6.Controls.Add(this.Financiera_Btn);
+            this.panel6.Location = new System.Drawing.Point(0, 129);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(115, 454);
+            this.panel6.TabIndex = 0;
+            // 
+            // panel7
+            // 
+            this.panel7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.panel7.Controls.Add(this.bunifuSeparator1);
+            this.panel7.Controls.Add(this.Gasto_Btn);
+            this.panel7.Controls.Add(this.Venta_Btn);
+            this.panel7.Location = new System.Drawing.Point(251, 8);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(202, 72);
+            this.panel7.TabIndex = 18;
+            // 
+            // MenuPrincipal
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::KDev.Properties.Resources.KDev_JPG;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.ClientSize = new System.Drawing.Size(1131, 878);
+            this.Controls.Add(this.flowLayoutPanel1);
+            this.Controls.Add(this.Dashboard_FLPanel);
+            this.Controls.Add(this.panel3);
+            this.Controls.Add(this.panel2);
+            this.Controls.Add(this.panel1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Name = "MenuPrincipal";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "MenuPrincipal";
+            this.panel1.ResumeLayout(false);
+            this.panel2.ResumeLayout(false);
+            this.panel4.ResumeLayout(false);
+            this.panel4.PerformLayout();
+            this.panel3.ResumeLayout(false);
+            this.panel5.ResumeLayout(false);
+            this.panel5.PerformLayout();
+            this.Administrador_Panel.ResumeLayout(false);
+            this.Administrador_Panel.PerformLayout();
+            this.panel6.ResumeLayout(false);
+            this.panel7.ResumeLayout(false);
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Panel panel1;
+        private Bunifu.UI.WinForms.BunifuImageButton Minimizar_Btn;
+        private Bunifu.UI.WinForms.BunifuImageButton Maximizar_Btn;
+        private Bunifu.UI.WinForms.BunifuImageButton Cerrar_Btn;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Panel panel3;
+        private Bunifu.UI.WinForms.BunifuImageButton bunifuImageButton2;
+        private System.Windows.Forms.Panel panel4;
+        private Bunifu.Framework.UI.BunifuThinButton2 CerrarSesion_Btn;
+        private Bunifu.UI.WinForms.BunifuImageButton Correo_Btn;
+        private Bunifu.UI.WinForms.BunifuImageButton WhastApp_Btn;
+        private Bunifu.UI.WinForms.BunifuSeparator Separador1;
+        private Bunifu.UI.WinForms.BunifuLabel Contactos_Label;
+        private System.Windows.Forms.FlowLayoutPanel Dashboard_FLPanel;
+        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
+        private Bunifu.UI.WinForms.BunifuButton.BunifuButton Inventario_Btn;
+        private Bunifu.UI.WinForms.BunifuButton.BunifuButton Proyectos_Btn;
+        private Bunifu.UI.WinForms.BunifuButton.BunifuButton Marketing_Btn;
+        private Bunifu.UI.WinForms.BunifuButton.BunifuButton Financiera_Btn;
+        private Bunifu.UI.WinForms.BunifuButton.BunifuButton Empleado_Btn;
+        private Bunifu.UI.WinForms.BunifuButton.BunifuButton Suplidor_Btn;
+        private Bunifu.UI.WinForms.BunifuButton.BunifuButton Cliente_Btn;
+        private Bunifu.UI.WinForms.BunifuButton.BunifuButton Dashboard_Btn;
+        private Bunifu.UI.WinForms.BunifuButton.BunifuButton Pedido_Btn;
+        private System.Windows.Forms.Panel Administrador_Panel;
+        private Bunifu.Framework.UI.BunifuThinButton2 Gasto_Btn;
+        private Bunifu.Framework.UI.BunifuThinButton2 Venta_Btn;
+        private Bunifu.UI.WinForms.BunifuSeparator bunifuSeparator1;
+        private Bunifu.UI.WinForms.BunifuImageButton bunifuImageButton1;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
+        private System.Windows.Forms.Panel panel5;
+        private System.Windows.Forms.TextBox UsuarioBienvenidad_txt;
+        private System.Windows.Forms.TextBox Bienvenida_Txt;
+        private System.Windows.Forms.TextBox Fecha_Txt;
+        private System.Windows.Forms.Panel panel6;
+        private Bunifu.UI.WinForms.BunifuSeparator bunifuSeparator2;
+        private System.Windows.Forms.Panel panel7;
+    }
+}

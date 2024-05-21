@@ -1,0 +1,8 @@
+C:\Users\natha\OneDrive\Desktop\KDev\KDev\KDev\KDev\obj\Debug\KDev.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Desktop\KDev\KDev\KDev\KDev\obj\Debug\KDev.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\OneDrive\Desktop\KDev\KDev\KDev\KDev\obj\Debug\KDev.Login.resources
+C:\Users\natha\OneDrive\Desktop\KDev\KDev\KDev\KDev\obj\Debug\KDev.Properties.Resources.resources
+C:\Users\natha\OneDrive\Desktop\KDev\KDev\KDev\KDev\obj\Debug\KDev.csproj.GenerateResource.cache
+C:\Users\natha\OneDrive\Desktop\KDev\KDev\KDev\KDev\obj\Debug\KDev.exe.licenses
+C:\Users\natha\OneDrive\Desktop\KDev\KDev\KDev\KDev\obj\Debug\KDev.IniciarSesion.resources
+C:\Users\natha\OneDrive\Desktop\KDev\KDev\KDev\KDev\obj\Debug\KDev.OlvidarCredenciales.resources
